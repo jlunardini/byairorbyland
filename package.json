@@ -21,7 +21,10 @@
   "homepage": "https://github.com/contentful/11ty-contentful-gallery#readme",
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
+    "autoprefixer": "^10.1.0",
     "contentful": "^7.14.4",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "postcss": "^8.2.1",
+    "tailwindcss": "^2.0.2"
   }
 }
